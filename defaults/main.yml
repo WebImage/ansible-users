@@ -1,0 +1,7 @@
+# See https://docs.ansible.com/ansible/latest/collections/ansible/builtin/user_module.html
+users: []
+#  - name: username
+#    password: password
+#    group: username
+#    groups: []
+#    home: /home/username
